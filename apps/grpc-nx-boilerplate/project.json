@@ -1,0 +1,8 @@
+{
+  "name": "grpc-nx-boilerplate",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "apps/grpc-nx-boilerplate/src",
+  "projectType": "application",
+  "targets": {},
+  "tags": []
+}
